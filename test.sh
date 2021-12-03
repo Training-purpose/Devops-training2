@@ -1,1 +1,1 @@
-Thi is feature 2 checkin
+Thi is feature 2 checking
